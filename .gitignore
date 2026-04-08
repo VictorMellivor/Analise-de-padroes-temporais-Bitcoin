@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb.layout
+*_files/
+*.html
