@@ -34,4 +34,4 @@ Durante o projeto, é apresentada uma das hipóteses que investidores e analista
 - Plotly Express: visualizações exploratórias durante a investigação.
 - Power BI: construção do dashboard para apresentação dos resultados.
 
-**Autor:** Victor - [LinkedIn](linkedin.com/in/victor-dsan) - [e-mail](victor.sbrito01@gmail.com)
+**Autor:** Victor - [LinkedIn](linkedin.com/in/victor-dsan/) - e-mail: victor.sbrito01@gmail.com
