@@ -32,7 +32,7 @@ Durante o projeto, é apresentada uma das hipóteses que investidores e analista
 ## Dashboard
 O dashboard foi criado usando o power BI. É possível encontrar o arquivo .pbix e o pdf apresentando todos os slides em `docs/dashboard`.
 
-<video src="docs/dashboard/dashboard_interacoes.mp4" controls="controls" width="100%" height="auto"></video>
+[![Demonstração do Dashboard](docs/images/media_historica_volume_agosto.png)](docs/dashboard/dashboard_interacoes.mp4)
 
 ## Tecnologias usadas
 - Python + Pandas: exploração, limpeza, transformação e análise dos dados.
