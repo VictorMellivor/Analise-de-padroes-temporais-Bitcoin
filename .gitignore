@@ -3,3 +3,5 @@
 *.ipynb.layout
 *_files/
 *.html
+.config/
+.layout
