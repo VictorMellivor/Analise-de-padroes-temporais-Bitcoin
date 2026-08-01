@@ -39,5 +39,3 @@ O dashboard foi criado usando o power BI. É possível encontrar o arquivo .pbix
 - Jupyter Notebook: desenvolvimento iterativo e validação das hipóteses.
 - Plotly Express: visualizações exploratórias durante a investigação.
 - Power BI: construção do dashboard para apresentação dos resultados.
-
-**Autor:** Victor - [LinkedIn](https://linkedin.com/in/victor-dsan) - [e-mail](mailto:victor.sbrito01@gmail.com)
